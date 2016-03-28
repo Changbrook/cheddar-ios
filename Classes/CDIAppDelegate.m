@@ -10,7 +10,7 @@
 #import "CDISplitViewController.h"
 #import "CDIListsViewController.h"
 #import "CDITransactionObserver.h"
-#import "CDIDefines.h"
+#import "../Other Sources/CDIDefinesExample.h"
 #import "CDISettingsTapPickerViewController.h"
 #import "CDISettingsFontPickerViewController.h"
 #import "CDISettingsTextSizePickerViewController.h"

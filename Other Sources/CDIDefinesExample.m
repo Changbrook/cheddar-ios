@@ -6,7 +6,7 @@
 //  Copyright (c) 2012 Nothing Magical. All rights reserved.
 //
 
-#import "CDIDefines.h"
+#import "CDIDefinesExample.h"
 
 #pragma mark - API
 
@@ -19,10 +19,10 @@
 //
 // You must set the redirect URI to `cheddar://oauth`
 //
-#error You need to fill in CDIDefines.m with your API credentials
+//#error You need to fill in CDIDefinesExample.m with your API credentials
 
-NSString *const kCDIAPIClientID = @"YOUR_API_KEY";
-NSString *const kCDIAPIClientSecret = @"YOUR_API_SECRET";
+NSString *const kCDIAPIClientID = @"8aad789d5d17074ac9c5a71f704801c8";
+NSString *const kCDIAPIClientSecret = @"0eecb7c70a1f7a076d94c11779ea2dc5";
 
 
 #pragma mark - Fonts

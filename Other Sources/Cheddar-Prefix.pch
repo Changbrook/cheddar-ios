@@ -18,5 +18,5 @@
     #import <CoreData/CoreData.h>
 	#import <CheddarKit/CheddarKit.h>
 	#import <SSToolkit/SSToolkit.h>
-	#import "CDIDefines.h"
+	#import "CDIDefinesExample.h"
 #endif

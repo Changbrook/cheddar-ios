@@ -154,7 +154,6 @@
 		B28FD2DD15BF742D00365CD6 /* Gotham-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = B28FD2D715BF742D00365CD6 /* Gotham-Book.otf */; };
 		B28FD2DE15BF742D00365CD6 /* Gotham-BookItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B28FD2D815BF742D00365CD6 /* Gotham-BookItalic.otf */; };
 		B28FD2E215BF755600365CD6 /* Cheddar.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B28FD2E015BF755600365CD6 /* Cheddar.xcdatamodeld */; };
-		B28FD2E815BF774D00365CD6 /* CDIDefines.m in Sources */ = {isa = PBXBuildFile; fileRef = B28FD2E715BF774D00365CD6 /* CDIDefines.m */; };
 		B290118A15C49B07008FC626 /* toolbar-background-mini.png in Resources */ = {isa = PBXBuildFile; fileRef = B290118615C49B07008FC626 /* toolbar-background-mini.png */; };
 		B290118B15C49B07008FC626 /* toolbar-background-mini@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B290118715C49B07008FC626 /* toolbar-background-mini@2x.png */; };
 		B290118C15C49B07008FC626 /* toolbar-background.png in Resources */ = {isa = PBXBuildFile; fileRef = B290118815C49B07008FC626 /* toolbar-background.png */; };
@@ -209,6 +208,7 @@
 		B2B25FE1161658AD00ACFD3E /* CDIKeyboardBar.m in Sources */ = {isa = PBXBuildFile; fileRef = B2B25FE0161658AD00ACFD3E /* CDIKeyboardBar.m */; };
 		B2B25FE416165B6D00ACFD3E /* CDIKeyboardButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B2B25FE316165B6D00ACFD3E /* CDIKeyboardButton.m */; };
 		B2DD6131160B750D00392C15 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B2DD6130160B750D00392C15 /* Default-568h@2x.png */; };
+		BC9ADA5A1CA97C14000EFC5B /* CDIDefinesExample.m in Sources */ = {isa = PBXBuildFile; fileRef = BC9ADA591CA97C14000EFC5B /* CDIDefinesExample.m */; };
 		DAA8ED5C161C7ABB0024C172 /* DevIcon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = DAA8ED54161C7ABB0024C172 /* DevIcon-29.png */; };
 		DAA8ED5D161C7ABB0024C172 /* DevIcon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = DAA8ED55161C7ABB0024C172 /* DevIcon-50.png */; };
 		DAA8ED5E161C7ABB0024C172 /* DevIcon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = DAA8ED56161C7ABB0024C172 /* DevIcon-57.png */; };
@@ -478,8 +478,6 @@
 		B28FD2D815BF742D00365CD6 /* Gotham-BookItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Gotham-BookItalic.otf"; sourceTree = "<group>"; };
 		B28FD2E115BF755600365CD6 /* Cheddar.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Cheddar.xcdatamodel; sourceTree = "<group>"; };
 		B28FD2E315BF756800365CD6 /* Cheddar 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Cheddar 2.xcdatamodel"; sourceTree = "<group>"; };
-		B28FD2E415BF761C00365CD6 /* CDIDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDIDefines.h; sourceTree = "<group>"; };
-		B28FD2E715BF774D00365CD6 /* CDIDefines.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDIDefines.m; sourceTree = "<group>"; };
 		B290118615C49B07008FC626 /* toolbar-background-mini.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toolbar-background-mini.png"; sourceTree = "<group>"; };
 		B290118715C49B07008FC626 /* toolbar-background-mini@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toolbar-background-mini@2x.png"; sourceTree = "<group>"; };
 		B290118815C49B07008FC626 /* toolbar-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toolbar-background.png"; sourceTree = "<group>"; };
@@ -540,6 +538,8 @@
 		B2B25FE216165B6D00ACFD3E /* CDIKeyboardButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDIKeyboardButton.h; sourceTree = "<group>"; };
 		B2B25FE316165B6D00ACFD3E /* CDIKeyboardButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDIKeyboardButton.m; sourceTree = "<group>"; };
 		B2DD6130160B750D00392C15 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		BC9ADA581CA97C14000EFC5B /* CDIDefinesExample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDIDefinesExample.h; sourceTree = "<group>"; };
+		BC9ADA591CA97C14000EFC5B /* CDIDefinesExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDIDefinesExample.m; sourceTree = "<group>"; };
 		DAA8ED54161C7ABB0024C172 /* DevIcon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DevIcon-29.png"; sourceTree = "<group>"; };
 		DAA8ED55161C7ABB0024C172 /* DevIcon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DevIcon-50.png"; sourceTree = "<group>"; };
 		DAA8ED56161C7ABB0024C172 /* DevIcon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DevIcon-57.png"; sourceTree = "<group>"; };
@@ -610,10 +610,10 @@
 		B208BBD015BF63A80080705D /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
+				BC9ADA581CA97C14000EFC5B /* CDIDefinesExample.h */,
+				BC9ADA591CA97C14000EFC5B /* CDIDefinesExample.m */,
 				B208BBD115BF63A80080705D /* Cheddar-Prefix.pch */,
 				B208BBD215BF63A80080705D /* main.m */,
-				B28FD2E415BF761C00365CD6 /* CDIDefines.h */,
-				B28FD2E715BF774D00365CD6 /* CDIDefines.m */,
 			);
 			path = "Other Sources";
 			sourceTree = "<group>";
@@ -1422,7 +1422,6 @@
 				B208C11215BF63E20080705D /* LocalyticsUtilities.m in Sources */,
 				B208C1A515BF63E20080705D /* TTTAttributedLabel.m in Sources */,
 				B28FD2E215BF755600365CD6 /* Cheddar.xcdatamodeld in Sources */,
-				B28FD2E815BF774D00365CD6 /* CDIDefines.m in Sources */,
 				B2A2B07B15C0BE7300772CF6 /* CDKTask+CheddariOSAdditions.m in Sources */,
 				B23261AA15C207FF00D455EF /* CDIWebSignInViewController.m in Sources */,
 				B2AD032115C493C200D9B909 /* CDIWebViewController.m in Sources */,
@@ -1434,6 +1433,7 @@
 				B26AE9BD15C5D25E0008AB1F /* CDIGroupedTableViewController.m in Sources */,
 				B26AE9C015C5D52D0008AB1F /* CDIPickerViewController.m in Sources */,
 				B2AD656B15E907870073BBC5 /* CDIPlaceholderView.m in Sources */,
+				BC9ADA5A1CA97C14000EFC5B /* CDIDefinesExample.m in Sources */,
 				B2AD656F15E907C50073BBC5 /* CDIListsPlaceholderView.m in Sources */,
 				B2711F0F15F58398000D6C09 /* CDIHUDView.m in Sources */,
 				B2711F1215F58DFC000D6C09 /* CDICheckboxButton.m in Sources */,
